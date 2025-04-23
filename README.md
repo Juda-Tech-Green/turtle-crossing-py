@@ -8,7 +8,7 @@ A Python game built using the `turtle` graphics module.
 In this game, you control a turtle that must cross a busy road filled with moving cars.  
 Each time you reach the top safely, you level up and the cars move faster!
 ---
-![Turtle Crossing Screenshot](./preview.PNG) 
+![Turtle Crossing Screenshot](./preview.png) 
 ---
 ## ✨ Features
 - Move the turtle **up**, **down**, **left**, and **right** using the `W`, `A`, `S`, `D` keys.
